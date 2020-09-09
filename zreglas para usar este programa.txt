@@ -1,0 +1,15 @@
+Hola!
+Para unir todos los pdfs que quieras usa zunir_pdfs
+Antes de hacer doble click en zunir_pdfs debes:
+
+1-Tener una carpeta aquí mismo donde estén tus pdfs
+2-Tener un archivo lista_pdfs.txt donde debe decir:
+a) La primera línea con el nombre de la carpeta que contiene los pdfs
+b) El resto de las líneas cada uno con los nombres de los archivos pdfs que desees unir
+Notar que su orden es importante, se unirán en el mismo orden que los escribas
+c) Ojalá no hayan líneas en blanco
+
+Si tienes todo, haz doble-click en zunir_pdfs con confianza
+Una vez listo, se guardará en la carpeta que pusiste un
+Documento 'nombre de tu carpeta'.pdf
+Ahí puedes encontrar todos tus pdfs unidos en orden.
